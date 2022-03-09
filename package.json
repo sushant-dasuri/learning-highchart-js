@@ -18,5 +18,8 @@
   "homepage": "https://github.com/sushant-dasuri/learning-highchart-js#readme",
   "devDependencies": {
     "package.json": "^2.0.1"
+  },
+  "dependencies": {
+    "highcharts": "^10.0.0"
   }
 }
