@@ -20,6 +20,7 @@
     "package.json": "^2.0.1"
   },
   "dependencies": {
-    "highcharts": "^10.0.0"
-  }
+    "highcharts": "^10.0.0",
+    "require": "^2.4.20"
+   }
 }
